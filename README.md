@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I am a final year Software Engineering student from Universiti Malaya. Throughout my education I have participated in a few Hackathons such as 'VHack USM' and 'Hack2Hire'. I have six months of industrial training with PETRONAS Digital. I am currenlty working on my final year project titled "UMakan", which is a mobile app that helps students manage their financial and nutritinal diet at the same time.
+
+I am currently learning Software Maintanence and Evolution at Universiti Malaya. I am excited to learn about fixing bugs, adapting to new environments, and enhancing performance or features to keep software running efficiently as well as improving and expanding a system to meet changing user needs while managing technical debt and ensuring long-term sustainability.
 <!--
 **Qayleef/Qayleef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
